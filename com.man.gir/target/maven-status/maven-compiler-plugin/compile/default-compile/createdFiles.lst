@@ -1,0 +1,8 @@
+conf\Filters.class
+models\CreateUser.class
+models\CreateUserImpl.class
+controllers\ApplicationController.class
+controllers\ApplicationController$SimplePojo.class
+entity\AppUser.class
+conf\Module.class
+conf\Routes.class
